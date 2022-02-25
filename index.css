@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background-color: #048940;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #ffffff;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-shadow: 3px 0 #171c1e;
+}
+
+.w {
+  background-image: url("images/crash.png");
+  width: 30px;
+  height: 30px;
+}
+
+.a {
+  background-image: url("images/kick.png");
+  width: 20px;
+  height: 20px;
+}
+
+.s {
+  background-image: url("images/snare.png");
+  width: 30px;
+  height: 30px;
+}
+
+.d {
+  background-image: url("images/tom1.png");
+  width: 30px;
+  height: 30px;
+}
+
+.j {
+  background-image: url("images/tom2.png");
+  width: 30px;
+  height: 30px;
+}
+
+.k {
+  background-image: url("images/tom3.png");
+  width: 30px;
+  height: 30px;
+}
+
+.l {
+  background-image: url("images/tom4.png");
+  width: 30px;
+  height: 30px;
+}
+
+.all {
+  margin: 10% auto;
+}
+
+.animation {
+  box-shadow: 0 3px 4px 0 #3a1094;
+  opacity: 0.5;
+}
+
+.button {
+  outline: none;
+  border: 10px solid #000000;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #1e00ff;
+  text-shadow: 3px 0 #000000;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(23, 204, 192);
+}
